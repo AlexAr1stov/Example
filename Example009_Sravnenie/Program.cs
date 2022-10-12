@@ -10,9 +10,9 @@ int number1=int.Parse(Console.ReadLine());
 int number2=int.Parse(Console.ReadLine());
 if (number1 == number2 * number2)
 {
-    Console.WriteLine("да");
+    Console.WriteLine("да, первое число квадрат второго");
 }
 else 
 {
-    Console.WriteLine("Нет");
+    Console.WriteLine("Нет, первое число не квадрат второго");
 }
