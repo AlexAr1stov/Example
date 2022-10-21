@@ -6,12 +6,29 @@
 Console.Clear();
 Console.WriteLine("Введите число");
 int Number = int.Parse (Console.ReadLine());
-for (int i = 1; i<Number+1; i++)
-{
-    if (i % 2 == 0)
-    {
-    if (i == Number+1)
-    break;
-    Console.Write(" "+i);
+if (Number > 0 )
+    {   
+        Console.Write ("Четные числа:");
+        for (int i = 1; i<Number+1; i++)
+            {
+                if (i % 2 == 0)
+                    {
+                    if (i == Number+1)
+                    break;
+                    Console.Write(" "+i);
+                    }
+            }
     }
-}
+if (Number < 0)
+    {
+        Console.Write ("Четные числа:");
+         for (int i = 1; i>Number-1; i--)
+            {
+                if (i % 2 == 0)
+                    {
+                    if (i == Number-1)
+                    break;
+                    Console.Write(" "+i);
+                    }
+            }
+    }
