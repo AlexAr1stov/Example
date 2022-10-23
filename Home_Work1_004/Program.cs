@@ -3,32 +3,59 @@
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
 
+// Console.Clear();
+// Console.WriteLine("Введите число");
+// int Number = int.Parse (Console.ReadLine());
+// if (Number > 0 )
+//     {   
+//         Console.Write ("Четные числа:");
+//         for (int i = 1; i<Number+1; i++)
+//             {
+//                 if (i % 2 == 0)
+//                     {
+//                     if (i == Number+1)
+//                     break;
+//                     Console.Write(" "+i);
+//                     }
+//             }
+//     }
+// if (Number < 0)
+//     {
+//         Console.Write ("Четные числа:");
+//          for (int i = 1; i>Number-1; i--)
+//             {
+//                 if (i % 2 == 0)
+//                     {
+//                     if (i == Number-1)
+//                     break;
+//                     Console.Write(" "+i);
+//                     }
+//             }
+//     }
+
 Console.Clear();
 Console.WriteLine("Введите число");
 int Number = int.Parse (Console.ReadLine());
 if (Number > 0 )
-    {   
-        Console.Write ("Четные числа:");
-        for (int i = 1; i<Number+1; i++)
-            {
-                if (i % 2 == 0)
-                    {
-                    if (i == Number+1)
-                    break;
-                    Console.Write(" "+i);
-                    }
-            }
-    }
-if (Number < 0)
-    {
-        Console.Write ("Четные числа:");
-         for (int i = 1; i>Number-1; i--)
-            {
-                if (i % 2 == 0)
-                    {
-                    if (i == Number-1)
-                    break;
-                    Console.Write(" "+i);
-                    }
-            }
-    }
+{
+
+Console.Write ("Четные числа:");
+for (int i = 1; i<Number+1; i++)
+{
+if (i % 2 == 0)
+{
+Console.Write(" "+i);
+}
+}
+}
+else
+{
+Console.Write ("Четные числа:");
+for (int i = -1; i>Number-1; i--)
+{
+if (i % 2 == 0)
+{
+Console.Write(" "+i);
+}
+}
+}
