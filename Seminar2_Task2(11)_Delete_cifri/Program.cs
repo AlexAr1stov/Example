@@ -2,10 +2,10 @@
 // 456 -> 46
 // 782 -> 72
 // 918 -> 98
-
+Console.Clear();
 int number = new Random().Next(100,1000);
 int FirstSymbol = number/100;
-int LastSymbol = number%100;
+int LastSymbol = number%10;
 Console.WriteLine($"Число {number} сократилось до {FirstSymbol}{LastSymbol}");
 
 // int num = new Random().Next(100,1000);
