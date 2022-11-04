@@ -24,4 +24,3 @@ if (AbsNumber >= 100)
     Three = AbsNumber % 10;
     Console.WriteLine($"В числе третья цифра {Three}");
 }
-

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Home_Work2_002(Task13)/1.0.0": {
+      "Home_Work2_002(Task13)_3Cifra_Number/1.0.0": {
         "runtime": {
-          "Home_Work2_002(Task13).dll": {}
+          "Home_Work2_002(Task13)_3Cifra_Number.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Home_Work2_002(Task13)/1.0.0": {
+    "Home_Work2_002(Task13)_3Cifra_Number/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

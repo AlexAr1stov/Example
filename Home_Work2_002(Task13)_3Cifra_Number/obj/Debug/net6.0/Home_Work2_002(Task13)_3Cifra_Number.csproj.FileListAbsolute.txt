@@ -1,0 +1,15 @@
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work2_002(Task13)_3Cifra_Number\bin\Debug\net6.0\Home_Work2_002(Task13)_3Cifra_Number.exe
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work2_002(Task13)_3Cifra_Number\bin\Debug\net6.0\Home_Work2_002(Task13)_3Cifra_Number.deps.json
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work2_002(Task13)_3Cifra_Number\bin\Debug\net6.0\Home_Work2_002(Task13)_3Cifra_Number.runtimeconfig.json
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work2_002(Task13)_3Cifra_Number\bin\Debug\net6.0\Home_Work2_002(Task13)_3Cifra_Number.dll
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work2_002(Task13)_3Cifra_Number\bin\Debug\net6.0\Home_Work2_002(Task13)_3Cifra_Number.pdb
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work2_002(Task13)_3Cifra_Number\obj\Debug\net6.0\Home_Work2_002(Task13)_3Cifra_Number.csproj.AssemblyReference.cache
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work2_002(Task13)_3Cifra_Number\obj\Debug\net6.0\Home_Work2_002(Task13)_3Cifra_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work2_002(Task13)_3Cifra_Number\obj\Debug\net6.0\Home_Work2_002(Task13)_3Cifra_Number.AssemblyInfoInputs.cache
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work2_002(Task13)_3Cifra_Number\obj\Debug\net6.0\Home_Work2_002(Task13)_3Cifra_Number.AssemblyInfo.cs
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work2_002(Task13)_3Cifra_Number\obj\Debug\net6.0\Home_Work2_002(Task13)_3Cifra_Number.csproj.CoreCompileInputs.cache
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work2_002(Task13)_3Cifra_Number\obj\Debug\net6.0\Home_Work2_002(Task13)_3Cifra_Number.dll
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work2_002(Task13)_3Cifra_Number\obj\Debug\net6.0\refint\Home_Work2_002(Task13)_3Cifra_Number.dll
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work2_002(Task13)_3Cifra_Number\obj\Debug\net6.0\Home_Work2_002(Task13)_3Cifra_Number.pdb
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work2_002(Task13)_3Cifra_Number\obj\Debug\net6.0\Home_Work2_002(Task13)_3Cifra_Number.genruntimeconfig.cache
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work2_002(Task13)_3Cifra_Number\obj\Debug\net6.0\ref\Home_Work2_002(Task13)_3Cifra_Number.dll

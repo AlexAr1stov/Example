@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aristovav-4\\Desktop\\С#\\Example\\Home_Work2_002(Task13)\\Home_Work2_002(Task13).csproj": {}
+    "C:\\Users\\Aristovav-4\\Desktop\\С#\\Example\\Home_Work2_002(Task13)_3Cifra_Number\\Home_Work2_002(Task13)_3Cifra_Number.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aristovav-4\\Desktop\\С#\\Example\\Home_Work2_002(Task13)\\Home_Work2_002(Task13).csproj": {
+    "C:\\Users\\Aristovav-4\\Desktop\\С#\\Example\\Home_Work2_002(Task13)_3Cifra_Number\\Home_Work2_002(Task13)_3Cifra_Number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aristovav-4\\Desktop\\С#\\Example\\Home_Work2_002(Task13)\\Home_Work2_002(Task13).csproj",
-        "projectName": "Home_Work2_002(Task13)",
-        "projectPath": "C:\\Users\\Aristovav-4\\Desktop\\С#\\Example\\Home_Work2_002(Task13)\\Home_Work2_002(Task13).csproj",
+        "projectUniqueName": "C:\\Users\\Aristovav-4\\Desktop\\С#\\Example\\Home_Work2_002(Task13)_3Cifra_Number\\Home_Work2_002(Task13)_3Cifra_Number.csproj",
+        "projectName": "Home_Work2_002(Task13)_3Cifra_Number",
+        "projectPath": "C:\\Users\\Aristovav-4\\Desktop\\С#\\Example\\Home_Work2_002(Task13)_3Cifra_Number\\Home_Work2_002(Task13)_3Cifra_Number.csproj",
         "packagesPath": "C:\\Users\\Aristovav-4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aristovav-4\\Desktop\\С#\\Example\\Home_Work2_002(Task13)\\obj\\",
+        "outputPath": "C:\\Users\\Aristovav-4\\Desktop\\С#\\Example\\Home_Work2_002(Task13)_3Cifra_Number\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aristovav-4\\AppData\\Roaming\\NuGet\\NuGet.Config"
