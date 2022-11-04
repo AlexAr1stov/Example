@@ -1,0 +1,15 @@
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work5_001(Task34)\bin\Debug\net6.0\Home_Work5_001(Task34).exe
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work5_001(Task34)\bin\Debug\net6.0\Home_Work5_001(Task34).deps.json
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work5_001(Task34)\bin\Debug\net6.0\Home_Work5_001(Task34).runtimeconfig.json
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work5_001(Task34)\bin\Debug\net6.0\Home_Work5_001(Task34).dll
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work5_001(Task34)\bin\Debug\net6.0\Home_Work5_001(Task34).pdb
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work5_001(Task34)\obj\Debug\net6.0\Home_Work5_001(Task34).csproj.AssemblyReference.cache
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work5_001(Task34)\obj\Debug\net6.0\Home_Work5_001(Task34).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work5_001(Task34)\obj\Debug\net6.0\Home_Work5_001(Task34).AssemblyInfoInputs.cache
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work5_001(Task34)\obj\Debug\net6.0\Home_Work5_001(Task34).AssemblyInfo.cs
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work5_001(Task34)\obj\Debug\net6.0\Home_Work5_001(Task34).csproj.CoreCompileInputs.cache
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work5_001(Task34)\obj\Debug\net6.0\Home_Work5_001(Task34).dll
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work5_001(Task34)\obj\Debug\net6.0\refint\Home_Work5_001(Task34).dll
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work5_001(Task34)\obj\Debug\net6.0\Home_Work5_001(Task34).pdb
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work5_001(Task34)\obj\Debug\net6.0\Home_Work5_001(Task34).genruntimeconfig.cache
+C:\Users\Aristovav-4\Desktop\С#\Example\Home_Work5_001(Task34)\obj\Debug\net6.0\ref\Home_Work5_001(Task34).dll
